@@ -1,3 +1,7 @@
+## 导入IDEA使用方式
+-   mainclass：org.apache.catalina.startup.Bootstrap
+-   vmoption: -Dcatalina.home=/Users/mercy/-idea_projects/tomcat -Dfile.encoding=UTF-8 -Duser.language=en -Duser.region=US
+
 ## Welcome to Apache Tomcat!
 
 ### What Is It?
